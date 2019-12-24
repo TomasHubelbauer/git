@@ -4,6 +4,8 @@
 
 https://stackoverflow.com/a/872700/2715716
 
+Implemented in https://github.com/TomasHubelbauer/git-erase
+
 ## To-Do
 
-### Try this out and adopt it for workflows which push to the repo
+### Adopt this for workflows which push to the repo
