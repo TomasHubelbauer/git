@@ -1,5 +1,7 @@
 # Git
 
+[**WEB**](https://tomashubelbauer.github.io/git)
+
 ## Delete file with its history
 
 https://stackoverflow.com/a/872700/2715716
