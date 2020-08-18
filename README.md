@@ -2,6 +2,10 @@
 
 [**WEB**](https://tomashubelbauer.github.io/git)
 
+## Set up
+
+https://github.com/tomasHubelbauer/git-config
+
 ## Delete file with its history
 
 https://stackoverflow.com/a/872700/2715716
