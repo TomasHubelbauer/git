@@ -28,6 +28,8 @@ recovered from. For that reason, it needs to be recovered from the remote copy
 where the new history has not been forced-pushed into yet, so the file still
 exists there.
 
+Example: https://github.com/TomasHubelbauer/tomashubelbauer
+
 ## To-Do
 
 ### Adopt this for workflows which push to the repo
