@@ -1,7 +1,5 @@
 # Git
 
-[**WEB**](https://tomashubelbauer.github.io/git)
-
 ## Set up
 
 https://github.com/tomasHubelbauer/git-config
