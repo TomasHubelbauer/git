@@ -27,9 +27,3 @@ where the new history has not been forced-pushed into yet, so the file still
 exists there.
 
 Example: https://github.com/TomasHubelbauer/tomashubelbauer
-
-## To-Do
-
-### Adopt this for workflows which push to the repo
-
-### Link to my Git config repo
