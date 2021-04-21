@@ -4,6 +4,10 @@
 
 https://github.com/tomasHubelbauer/git-config
 
+## Pull With Submodules
+
+`git config --global submodule.recurse true`
+
 ## Delete file with its history
 
 https://stackoverflow.com/a/872700/2715716
