@@ -8,6 +8,8 @@ https://github.com/tomasHubelbauer/git-config
 
 `git config --global submodule.recurse true`
 
+[Stack Overflow answer](https://stackoverflow.com/a/49427199/2715716)
+
 ## Delete file with its history
 
 https://stackoverflow.com/a/872700/2715716
